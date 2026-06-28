@@ -1,0 +1,5 @@
+* [Inicio](/)
+* [Arquitectura](arquitectura.md)
+* [Configuración](configuracion.md)
+* [API Reference](api.md)
+* [Swagger UI](swagger.md)
